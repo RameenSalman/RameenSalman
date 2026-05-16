@@ -2,7 +2,7 @@
 
 **Artificial Intelligence Undergraduate | Machine Learning & Python Developer**
 
-I am a Bachelor of Science in Artificial Intelligence student at Bahria University with hands-on experience in Python-based AI and machine learning projects. My work focuses on building practical solutions using machine learning, fuzzy logic, computer vision, and database-backed applications.
+I am a Bachelor of Science in Artificial Intelligence student at Bahria University with hands-on experience in Python-based AI and machine learning projects. My work focuses on building practical solutions using machine learning, computer vision, and database-backed applications.
 
 ---
 
@@ -11,7 +11,7 @@ I am a Bachelor of Science in Artificial Intelligence student at Bahria Universi
 * BS Artificial Intelligence, Bahria University (2024 – Present)
 * Interested in Artificial Intelligence, Machine Learning, and Intelligent Systems
 * Strong in Python, with additional experience in C++, Java, and SQL
-* Built projects involving machine learning, fuzzy logic, deep learning, and desktop applications
+* Built projects involving machine learning, deep learning, and desktop applications
 * Currently strengthening my skills in AI/ML and software development
 
 ---
@@ -85,15 +85,12 @@ Role-based desktop application using PyQt5 and SQL Server for managing vehicles,
 * Building practical AI applications
 
 ---
-
 ## Connect With Me
 
-* LinkedIn: [Add your LinkedIn URL]
-* GitHub: [https://github.com/[your-username](https://github.com/[your-username)]
-* Email: [rameensalmanrs@gmail.com](mailto:rameensalmanrs@gmail.com)
+- LinkedIn: [linkedin.com/in/rameensalman-](https://www.linkedin.com/in/rameensalman-/)
+- GitHub: [github.com/RameenSalman](https://github.com/RameenSalman)
+- Email: [rameensalmanrs@gmail.com](mailto:rameensalmanrs@gmail.com)
 
 ---
-
-## Fun Fact
 
 I enjoy turning academic concepts into practical AI applications that solve real-world problems.
