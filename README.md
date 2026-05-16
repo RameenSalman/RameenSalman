@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi, I'm Rameen Salman
 
-<!--
-**RameenSalman/RameenSalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Artificial Intelligence Undergraduate | Machine Learning & Python Developer**
 
-Here are some ideas to get you started:
+I am a Bachelor of Science in Artificial Intelligence student at Bahria University with hands-on experience in Python-based AI and machine learning projects. My work focuses on building practical solutions using machine learning, fuzzy logic, computer vision, and database-backed applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* BS Artificial Intelligence, Bahria University (2024 – Present)
+* Interested in Artificial Intelligence, Machine Learning, and Intelligent Systems
+* Strong in Python, with additional experience in C++, Java, and SQL
+* Built projects involving machine learning, fuzzy logic, deep learning, and desktop applications
+* Currently strengthening my skills in AI/ML and software development
+
+---
+
+## Technical Skills
+
+### Languages
+
+* Python
+* SQL
+* C++
+* Java
+
+### AI & Machine Learning
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* TensorFlow/Keras
+* scikit-fuzzy
+
+### Core Concepts
+
+* Machine Learning (Classification, Regression)
+* Basic Deep Learning
+* Feature Engineering
+* Data Preprocessing
+* Model Evaluation
+
+### Tools
+
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
+* NetBeans
+
+### Database & Development
+
+* SQL Server
+* pyodbc
+* PyQt5
+
+---
+
+## Featured Projects
+
+### Spam Email Classifier
+
+Machine learning-based spam detection system using Logistic Regression, feature extraction, and CLT-based anomaly detection.
+
+### Plastic Object Classifier
+
+CNN-based image classification model that categorizes plastic objects and recommends conveyor belt routing.
+
+### Fuzzy Logic Anemia Diagnosis System
+
+Rule-based fuzzy inference system that classifies anemia types using hematological parameters.
+
+### Transport Management System
+
+Role-based desktop application using PyQt5 and SQL Server for managing vehicles, routes, schedules, bookings, billing, and maintenance.
+
+---
+
+## Current Focus
+
+* Machine Learning and AI model development
+* Computer Vision
+* Fuzzy Logic and Decision Support Systems
+* Building practical AI applications
+
+---
+
+## Connect With Me
+
+* LinkedIn: [Add your LinkedIn URL]
+* GitHub: [https://github.com/[your-username](https://github.com/[your-username)]
+* Email: [rameensalmanrs@gmail.com](mailto:rameensalmanrs@gmail.com)
+
+---
+
+## Fun Fact
+
+I enjoy turning academic concepts into practical AI applications that solve real-world problems.
