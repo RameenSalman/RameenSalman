@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Chalkboard&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Artificial%20Intelligence%20Undergraduate%20%7C%20Machine%20Learning%20%26%20Python%20Developer;Exploring%20Intelligent%20Systems%2C%20Machine%20Learning%20%26%20AI%20Automation" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chalkboard&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=AI%20Undergraduate%20%7C%20Machine%20Learning%20%26%20Python%20Developer;Exploring%20Intelligent%20Systems%2C%20Machine%20Learning%20%26%20AI%20Automation" alt="Typing headlines" />
 </p>
 
 ### About Me
