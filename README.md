@@ -1,96 +1,55 @@
-# Hi, I'm Rameen Salman
+<p align="center">
+  <a href="https://github.com/RameenSalman">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Rameen%20Salman" alt="Hello! I&#39;m Rameen Salman" />
+  </a>
+</p>
 
-**Artificial Intelligence Undergraduate | Machine Learning & Python Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Chalkboard&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Artificial%20Intelligence%20Undergraduate%20%7C%20Machine%20Learning%20%26%20Python%20Developer;Exploring%20Intelligent%20Systems%2C%20Machine%20Learning%20%26%20AI%20Automation" alt="Typing headlines" />
+</p>
 
-I am a Bachelor of Science in Artificial Intelligence student at Bahria University with hands-on experience in Python-based AI and machine learning projects. My work focuses on building practical solutions using machine learning, computer vision, and database-backed applications.
+### About Me
 
----
+AI undergraduate exploring Machine Learning, Deep Learning, NLP, and Generative AI. I build practical AI applications using Python, including ML models, RAG-based chatbots, and AI automation workflows. Interested in developing intelligent systems that solve real-world problems
 
-## About Me
+ &nbsp;I'm currently working on **Machine Learning • Generative AI • RAG Systems • AI Automation • NLP • Python AI Applications**  
+ &nbsp;I'm currently learning **LLMs • AI Agents • Advanced RAG • Model Deployment**
 
-* BS Artificial Intelligence, Bahria University (2024 – Present)
-* Interested in Artificial Intelligence, Machine Learning, and Intelligent Systems
-* Strong in Python, with additional experience in C++, Java, and SQL
-* Built projects involving machine learning, deep learning, and desktop applications
-* Currently strengthening my skills in AI/ML and software development
+### Tech Stack
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+</p>
 
-## Technical Skills
+### 🔗 Connect With Me
 
-### Languages
+<p align="left">
+  <a href="https://www.linkedin.com/in/rameensalman-/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rameensalmanrs@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-* Python
-* SQL
-* C++
-* Java
+### GitHub Stats
 
-### AI & Machine Learning
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=RameenSalman&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* TensorFlow/Keras
-* scikit-fuzzy
+### Contribution Graph
 
-### Core Concepts
-
-* Machine Learning (Classification, Regression)
-* Basic Deep Learning
-* Feature Engineering
-* Data Preprocessing
-* Model Evaluation
-
-### Tools
-
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-* NetBeans
-
-### Database & Development
-
-* SQL Server
-* pyodbc
-* PyQt5
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RameenSalman&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
-
-## Featured Projects
-
-### Spam Email Classifier
-
-Machine learning-based spam detection system using Logistic Regression, feature extraction, and CLT-based anomaly detection.
-
-### Plastic Object Classifier
-
-CNN-based image classification model that categorizes plastic objects and recommends conveyor belt routing.
-
-### Fuzzy Logic Anemia Diagnosis System
-
-Rule-based fuzzy inference system that classifies anemia types using hematological parameters.
-
-### Transport Management System
-
-Role-based desktop application using PyQt5 and SQL Server for managing vehicles, routes, schedules, bookings, billing, and maintenance.
-
----
-
-## Current Focus
-
-* Machine Learning and AI model development
-* Computer Vision
-* Fuzzy Logic and Decision Support Systems
-* Building practical AI applications
-
----
-## Connect With Me
-
-- LinkedIn: [linkedin.com/in/rameensalman-](https://www.linkedin.com/in/rameensalman-/)
-- GitHub: [github.com/RameenSalman](https://github.com/RameenSalman)
-- Email: [rameensalmanrs@gmail.com](mailto:rameensalmanrs@gmail.com)
-
----
-
-I enjoy turning academic concepts into practical AI applications that solve real-world problems.
+<p align="center"><i>⭐️ From <a href="https://github.com/RameenSalman">RameenSalman</a></i></p>
